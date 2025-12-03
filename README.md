@@ -19,3 +19,7 @@ This project analyzes an online sales dataset (Kaggle) and generates:
 
 ## Dataset Source
 Kaggle: *<a href="https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data">Online Sales Dataset – Popular Marketplace Data</a>*
+
+### A preview of dashboard
+<img width="760" alt="image" src="https://github.com/user-attachments/assets/82c4a09b-b399-4395-9269-f39d2f148f6b" />
+
